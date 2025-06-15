@@ -1,8 +1,0 @@
-# Ignore everything
-*
-**/
-!.gitignore
-
-# Allow only the specific database file
-!law_bot/
-!law_bot/nkp_cases_discovered_by_nirnaya_final_backup.db
